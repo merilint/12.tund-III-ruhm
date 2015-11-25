@@ -22,11 +22,17 @@
   </div><!-- /.container-fluid -->
 </nav>
  <br><br><br>
-   
-<div class="container">
+ <div class="container">
    <div class="row">
+      <div class="col-sm-6 col-sm-push-6">
+   <ul class="nav nav-tabs">
+  <li role="presentation" class="active"><a href="#">Home</a></li>
+  <li role="presentation"><a href="#">Profile</a></li>
+  <li role="presentation"><a href="#">Messages</a></li>
+</ul>
+   </div>
    
-   <div class="col-sm-6">
+   <div class="col-sm-6 col-sm-pull-6">
    <div class="jumbotron">
   <h1>Hello, world!</h1>
   <p>...</p>
@@ -34,13 +40,7 @@
 </div>
    </div>
    
-      <div class="col-sm-6">
-   <ul class="nav nav-tabs">
-  <li role="presentation" class="active"><a href="#">Home</a></li>
-  <li role="presentation"><a href="#">Profile</a></li>
-  <li role="presentation"><a href="#">Messages</a></li>
-</ul>
-   </div>
+   
    
    
    
