@@ -22,7 +22,25 @@
   </div><!-- /.container-fluid -->
 </nav>
  <br><br><br>
-   <h1>Hello, world!</h1><h1>Hello, world!</h1><h1>Hello, world!</h1>
+   
+<div class="container">
+   <div class="row">
+   
+   <div class="col-sm-6">
+   <div class="jumbotron">
+  <h1>Hello, world!</h1>
+  <p>...</p>
+  <p><a class="btn btn-success btn pull-right" href="#" role="button">Learn more</a></p>
+</div>
+   </div>
+   
+      <div class="col-sm-6">
+   <ul class="nav nav-tabs">
+  <li role="presentation" class="active"><a href="#">Home</a></li>
+  <li role="presentation"><a href="#">Profile</a></li>
+  <li role="presentation"><a href="#">Messages</a></li>
+</ul>
+   </div>
    
    
    
